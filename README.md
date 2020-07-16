@@ -39,10 +39,10 @@ Here show some visualiztion of training process for failure case:
 
 Here show some visualiztion of training process for success case:
 
-![5](example/success/1.gif "success1")
+![5](example/success/5.gif "success1")
 ![6](example/success/8.gif "success2")
 ![7](example/success/3.gif "success3")
-![8](example/success/4.gif "success4")
+![8](example/success/9.gif "success4")
 
 # Note
 
